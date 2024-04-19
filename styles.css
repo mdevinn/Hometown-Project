@@ -53,13 +53,6 @@ img {
 .activities img{
     border-radius: 100%;
 }
-.activity-header {
-    width: 100%; /* Ensure the header spans the full width */
-    text-align: center; /* Center the header */
-    margin-bottom: 20px; /* Adjust spacing between the header and activities */
-    order: -1; /* Place the header first in the flex order */
-}
-
 .guide{
     width: 400px;
     display: flex;
