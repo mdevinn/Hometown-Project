@@ -33,10 +33,10 @@ img {
     border-radius: 10px;
     background-color: #457B9D;
     color: #F1FAEE;
+    
 }
 #hero-subtitle{
     width: 500px;
-    margin: 20px auto;
     border: 1px solid #1D3557;
     padding: 4px 2px;
     border-radius: 10px;
@@ -46,13 +46,18 @@ img {
 .activities{
     background-color: #F1FAEE;
     color: #1D3557;
+    padding-top: 5px;
+}
+.activities-subwrapper{
     display: flex;
     justify-content: space-around;
-    margin-bottom: 60px;
+    padding: 20px;
+    margin-bottom: 30px;
 }
 .activities img{
     border-radius: 100%;
 }
+
 .guide{
     width: 400px;
     display: flex;
